@@ -94,7 +94,7 @@ https://user-images.githubusercontent.com/55312572/143812994-d6565257-e7e1-47af-
 
 i. Acceptance/Project Completion Form
 
-![Form Sign off](https://user-images.githubusercontent.com/55696734/148924065-c7306787-b3a2-4026-90d0-91fec3b36bef.JPG)
+![Form Sign off](https://user-images.githubusercontent.com/55696734/148924556-b46c5be6-c6d9-47c7-a04f-6bb75a5fb887.JPG)
 
 ii. Lesson Learned
 
