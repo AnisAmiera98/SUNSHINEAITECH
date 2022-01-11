@@ -88,14 +88,22 @@ Coding
 
 Output
 
+https://user-images.githubusercontent.com/55312572/143812994-d6565257-e7e1-47af-a274-0776b9818996.mp4
+
 # E. COMPLETING THE PROJECT
 
+i. Acceptance/Project Completion Form
+
+![Form Sign off](https://user-images.githubusercontent.com/55696734/148924065-c7306787-b3a2-4026-90d0-91fec3b36bef.JPG)
+
+ii. Lesson Learned
+
+iii. Final Project Report
+
+iv. Close Contract
+
+# F. PROJECT PRESENTATION
 
 
 
-
-
-
-
-https://user-images.githubusercontent.com/55312572/143812994-d6565257-e7e1-47af-a274-0776b9818996.mp4
 
