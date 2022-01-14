@@ -3,16 +3,23 @@
 # A. DEFINING THE PROJECT
 
 Customer
+
 Ever Technologies 
 
+
 Project Name
+
 AI Detecting Security Intrusion
+
 
 Team Members
 
 Anis Amiera Binti Zamrin Hasbullah ( Project Manager )
+
 Fairuz Diana Binti Hamzah 
+
 Norsaza Amalia Binti Mohd Saiful Abidin
+
 
 Objective
 
