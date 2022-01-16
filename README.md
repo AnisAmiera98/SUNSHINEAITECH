@@ -4,24 +4,30 @@
 
 Customer
 
-Ever Technologies 
+- Ever Technologies 
 
 
 Project Name
 
-AI Detecting Security Intrusion
+- AI Detecting Security Intrusion
 
 
 Team Members
 
-Anis Amiera Binti Zamrin Hasbullah ( Project Manager )
+- Anis Amiera Binti Zamrin Hasbullah ( Project Manager )
 
-Fairuz Diana Binti Hamzah 
+- Fairuz Diana Binti Hamzah 
 
-Norsaza Amalia Binti Mohd Saiful Abidin
+- Norsaza Amalia Binti Mohd Saiful Abidin
 
 
 Objective
+
+- Provides a prompt notice for the response force to a sensor.
+
+- Require a high level of security to ensure safe and trusted communication of information.
+
+- To reduce risk, identify error, optimize network use, provide insight into threat levels, and change user behavior.
 
 
 # B. PLANNING THE PROJECT
@@ -32,6 +38,8 @@ Work Breakdown Structure
 Gantt Chart
 
 Risk Identification Chart
+
+![Risk](https://user-images.githubusercontent.com/55696734/149678348-e06e02bd-07ad-4994-8fd0-3f9c7993f4b4.JPG)
 
 Responsibility Assignment Matrices (RAM)
 
@@ -90,6 +98,12 @@ Milestone Chart
 Project Design and Coding
 
 Design
+
+a) Flow Chart
+
+b) AI Detecting Security Intrusion Algorithms 
+
+![Structure Chart-Page-3](https://user-images.githubusercontent.com/55696734/149678236-6de74fb9-dd67-4eb5-bec7-ead09484dc01.jpg)
 
 Coding
 
