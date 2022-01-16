@@ -67,6 +67,8 @@ Project Planning Summary
 
 Modules and Components
 
+![Components](https://user-images.githubusercontent.com/55696734/149678890-45746e8f-f27b-49a4-b8db-1dfd15a8bb3a.JPG)
+
 Budget
 
 ![NPV](https://user-images.githubusercontent.com/55696734/148921295-96611598-c78a-46fe-8cc1-bf8cb5bb4c90.JPG)
