@@ -125,6 +125,8 @@ i. Acceptance/Project Completion Form Sign-off
 
 ii. Lesson Learned Document
 
+![Lesson learned](https://user-images.githubusercontent.com/55696734/149792017-0bd0447e-3041-446a-b5a7-27256793e083.JPG)
+
 iii. Final Project Report
 
 iv. Close Contract
