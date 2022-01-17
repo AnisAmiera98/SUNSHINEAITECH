@@ -39,6 +39,9 @@ Work Breakdown Structure
 ![trees (1)](https://user-images.githubusercontent.com/55696734/148920380-4dad6438-21e2-4bfa-8de7-5cca8e927be0.jpg)
 
 Gantt Chart
+![1](https://user-images.githubusercontent.com/55312572/149798431-632d2641-8725-4cfc-9574-f561b1548f89.PNG)
+![2](https://user-images.githubusercontent.com/55312572/149798441-b3c29789-bba3-47eb-a14c-0380c84210b1.PNG)
+
 
 Risk Identification Chart
 
@@ -115,6 +118,8 @@ b) AI Detecting Security Intrusion Algorithms
 ![Structure Chart-Page-3](https://user-images.githubusercontent.com/55696734/149678236-6de74fb9-dd67-4eb5-bec7-ead09484dc01.jpg)
 
 Coding
+![2](https://user-images.githubusercontent.com/55312572/149798461-8518bd9d-398f-4319-9a54-3dde1453abc2.PNG)
+
 
 Output
 
