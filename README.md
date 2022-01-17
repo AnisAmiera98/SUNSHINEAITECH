@@ -115,6 +115,8 @@ Output
 
 https://user-images.githubusercontent.com/55312572/143812994-d6565257-e7e1-47af-a274-0776b9818996.mp4
 
+The video above shows the output from our source code. If an intruder is detected it will activate the detection sensor. The sensor will detect the intruder and alert the user by voice “intruder alert”.
+
 # E. COMPLETING THE PROJECT
 
 i. Acceptance/Project Completion Form
