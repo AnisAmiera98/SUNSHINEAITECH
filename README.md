@@ -93,7 +93,9 @@ Restoration
 
 ![Restroration](https://user-images.githubusercontent.com/55696734/148921932-2d2ba1e4-7c4d-4b7e-bd73-770447d18f41.JPG)
 
-Milestone Chart
+Time Management
+
+![time management](https://user-images.githubusercontent.com/55696734/149793771-8775e18a-bcdd-438b-98b6-12330d1c351c.JPG)
 
 # D. EXECUTING THE PROJECT
 
