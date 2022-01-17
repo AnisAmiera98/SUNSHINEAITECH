@@ -103,6 +103,8 @@ Design
 
 a) Flow Chart
 
+![Flowchart drawio](https://user-images.githubusercontent.com/55697008/149782883-30d8c617-0f6b-4da5-b624-0e262e255e05.png)
+
 b) AI Detecting Security Intrusion Algorithms 
 
 ![Structure Chart-Page-3](https://user-images.githubusercontent.com/55696734/149678236-6de74fb9-dd67-4eb5-bec7-ead09484dc01.jpg)
