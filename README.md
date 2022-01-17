@@ -125,7 +125,7 @@ i. Acceptance/Project Completion Form Sign-off
 
 ii. Lesson Learned Document
 
-![Lesson learned](https://user-images.githubusercontent.com/55696734/149792017-0bd0447e-3041-446a-b5a7-27256793e083.JPG)
+![Lesson learned](https://user-images.githubusercontent.com/55696734/149792225-7d3ff233-86d4-4731-afaa-c1f5940e9eed.JPG)
 
 iii. Final Project Report
 
