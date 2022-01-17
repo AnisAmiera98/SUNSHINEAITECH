@@ -40,7 +40,8 @@ Work Breakdown Structure
 
 Gantt Chart
 ![1](https://user-images.githubusercontent.com/55312572/149798431-632d2641-8725-4cfc-9574-f561b1548f89.PNG)
-![2](https://user-images.githubusercontent.com/55312572/149798441-b3c29789-bba3-47eb-a14c-0380c84210b1.PNG)
+![Capture](https://user-images.githubusercontent.com/55312572/149798547-870a51a3-b88d-41bb-aad0-d5afe44ecd25.PNG)
+
 
 
 Risk Identification Chart
