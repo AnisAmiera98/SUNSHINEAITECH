@@ -119,9 +119,11 @@ The video above shows the output from our source code. If an intruder is detecte
 
 # E. COMPLETING THE PROJECT
 
-i. Acceptance/Project Completion Form
+i. Acceptance/Project Completion Form Sign-off
 
-ii. Lesson Learned
+![Sign-off](https://user-images.githubusercontent.com/55696734/149787573-cf4d5134-2a76-4f05-9d7d-0d99a42e0b54.JPG)
+
+ii. Lesson Learned Document
 
 iii. Final Project Report
 
