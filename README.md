@@ -121,7 +121,7 @@ The video above shows the output from our source code. If an intruder is detecte
 
 i. Acceptance/Project Completion Form Sign-off
 
-![Sign-off](https://user-images.githubusercontent.com/55696734/149787573-cf4d5134-2a76-4f05-9d7d-0d99a42e0b54.JPG)
+![Sign-off](https://user-images.githubusercontent.com/55696734/149787959-58875b45-8e7f-4f23-b090-94272ef90ebf.JPG)
 
 ii. Lesson Learned Document
 
