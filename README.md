@@ -84,8 +84,6 @@ Responsibilities
 
 # C. IMPLEMENTING THE PROJECT PLAN
 
-Deliverables
-
 Tasks and Estimated Costs
 
 Acquistion
