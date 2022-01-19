@@ -138,8 +138,6 @@ ii. Lesson Learned Document
 
 iii. Final Project Report
 
-iv. Close Contract
-
 # F. PROJECT PRESENTATION
 
 
